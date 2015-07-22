@@ -13,6 +13,6 @@
 	 如果我的阿里云还在运行的话，可以在线使用一下:)：http://115.29.149.90:8080/public/html/lexical.html  
 #效果图
 
-![image](https://github.com/yyrdl/C-/tree/master/img/demo.png)
-![image](https://github.com/yyrdl/C-/tree/master/img/demo2.png)
+![image](https://github.com/yyrdl/C-/blob/master/img/demo.png)
+![image](https://github.com/yyrdl/C-/blob/master/img/demo2.png)
 	 
